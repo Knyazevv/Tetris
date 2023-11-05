@@ -1,0 +1,6 @@
+﻿  Tetris.cpp
+D:\Різне\Шаг\Tetris курсова\Tetris 2\Tetris\Tetris.cpp(110,10): warning C4101: 's': unreferenced local variable
+D:\Різне\Шаг\Tetris курсова\Tetris 2\Tetris\Tetris.cpp(163,10): warning C4101: 'j': unreferenced local variable
+D:\Різне\Шаг\Tetris курсова\Tetris 2\Tetris\Tetris.cpp(318,10): warning C4101: 'Ti': unreferenced local variable
+D:\Різне\Шаг\Tetris курсова\Tetris 2\Tetris\Tetris.cpp(316,8): warning C4101: 'print': unreferenced local variable
+  Tetris.vcxproj -> D:\Різне\Шаг\Tetris курсова\Tetris 2\Debug\Tetris.exe

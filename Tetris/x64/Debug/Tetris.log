@@ -1,0 +1,7 @@
+﻿  Tetris.cpp
+C:\Users\Dass\OneDrive\Рабочий стол\Tetris\Tetris 2\Tetris\Base.h(49,10): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Dass\OneDrive\Рабочий стол\Tetris\Tetris 2\Tetris\Tetris.cpp(110,10): warning C4101: 's': unreferenced local variable
+C:\Users\Dass\OneDrive\Рабочий стол\Tetris\Tetris 2\Tetris\Tetris.cpp(163,10): warning C4101: 'j': unreferenced local variable
+C:\Users\Dass\OneDrive\Рабочий стол\Tetris\Tetris 2\Tetris\Tetris.cpp(318,10): warning C4101: 'Ti': unreferenced local variable
+C:\Users\Dass\OneDrive\Рабочий стол\Tetris\Tetris 2\Tetris\Tetris.cpp(316,8): warning C4101: 'print': unreferenced local variable
+  Tetris.vcxproj -> C:\Users\Dass\OneDrive\Рабочий стол\Tetris\Tetris 2\x64\Debug\Tetris.exe
